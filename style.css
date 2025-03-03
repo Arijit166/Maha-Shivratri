@@ -6,7 +6,7 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 200px;
+    margin-top: 150px;
     font-size: 72px;
     text-transform: uppercase;
     background: linear-gradient(90deg,#4776e6 0%, #e954e2 75%);
@@ -28,6 +28,7 @@ h2{
     height:100vh;
    }
    .container{
+    margin-top:50px;
     width:400px;
     height: 300px;
     display: flex;
