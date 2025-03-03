@@ -11,6 +11,15 @@ h1{
     text-transform: uppercase;
     background: linear-gradient(90deg,#4776e6 0%, #e954e2 75%);
    }
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    font-size: 72px;
+    text-transform: uppercase;
+    background: linear-gradient(90deg,#4776e6 0%, #e954e2 75%);
+   }
    body{
     height: 100vh;
     display: grid;
